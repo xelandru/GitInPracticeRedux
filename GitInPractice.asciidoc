@@ -15,4 +15,3 @@ test
 
 Test revert
 Test revert2
-some text
